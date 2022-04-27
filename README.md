@@ -1,5 +1,4 @@
 <h2 align="center">Hello there! 👨🏻‍💻 I'm Ahmet Enes</h1>
-<div align="center"><img src="https://giphy.com/embed/bAQH7WXKqtIBrPs7sR" width="480" height="268" frameBorder="0"  /> </div>
 
 <p>
   
