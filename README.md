@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [My Medium Page](https://medium.com/@ahmetenesirmak) 
 
-- 🚀 I share my learning process on [My Instagram page](https://cengiz.rocks)
+- 🚀 I share my learning process on [My Instagram page](https://www.instagram.com/enes_codes/)
 
 - 💬 Ask me about **Swift, and Python.**
 
