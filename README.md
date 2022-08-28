@@ -1,7 +1,9 @@
 <h2 align="center">Hello there! 👨🏻‍💻 I'm Ahmet Enes</h1>
 
+![Profile views](https://gpvc.arturio.dev/ahmetenesirmak)
+
 <p>
-  
+
 - 🌱 I’m currently working with **Swift and anything related with iOS.**
 
 - 📝 I regularly write articles on [My Medium Page](https://medium.com/@ahmetenesirmak) 
@@ -32,10 +34,25 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
 
- <p><a href="https://github-readme-stats.vercel.app/api?username=ahmetenesirmak&count_private=true&hide_border=true&show_icons=true&theme=dracula">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetenesirmak&count_private=true&hide_border=true&show_icons=true&theme=dracula">
- </a></p>
- 
- <p><a href="https://github-readme-streak-stats.herokuapp.com/?user=ahmetenesirmak&hide_border=true&theme=dracula">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetenesirmak&hide_border=true&theme=dracula">
- </a></p>
+<table>
+    <tr>
+        <td colspan="2" align="center">
+        <strong><samp>Stats:</samp></strong>
+        </td>
+        <td colspan="2" align="center">
+        <strong><samp>Streak:</samp></strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api?username=ahmetenesirmak&count_private=true&hide_border=true&show_icons=true&theme=dracula">
+        <img src="https://github-readme-stats.vercel.app/api?username=ahmetenesirmak&count_private=true&hide_border=true&show_icons=true&theme=dracula">
+        </a>
+        </td>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=ahmetenesirmak&hide_border=true&theme=dracula">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetenesirmak&hide_border=true&theme=dracula">
+        </a>
+        </td>
+    </tr>
+</table>
