@@ -32,6 +32,10 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetenesirmak&show_icons=true&theme=radical&locale=en&layout=compact" alt="ahmetenesirmak" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetenesirmak&show_icons=true&theme=dark&locale=en" alt="ahmetenesirmak" width="50%" /></p>
+ <p><a href="https://github-readme-stats.vercel.app/api?username=ahmetenesirmak&count_private=true&hide_border=true&show_icons=true&theme=dracula">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetenesirmak&count_private=true&hide_border=true&show_icons=true&theme=dracula">
+ </a></p>
+ 
+ <p><a href="https://github-readme-streak-stats.herokuapp.com/?user=ahmetenesirmak&hide_border=true&theme=dracula">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetenesirmak&hide_border=true&theme=dracula">
+ </a></p>
