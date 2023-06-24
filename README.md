@@ -1,6 +1,6 @@
-<h2 align="center">Hello there! 👨🏻‍💻 I'm Ahmet Enes</h1>
+<h2 align="center">Hi there! 👨🏻‍💻 I'm Ahmet Enes</h1>
 
-![Profile views](https://gpvc.arturio.dev/ahmetenesirmak)
+<img src="https://media.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif" height= 300 width=600 />
 
 <p>
 
